@@ -1,13 +1,3 @@
-# Assignment-3
+Lenna Modifier
 
-Project to base your assignment 3 off of. Do not modify the ImageUtils class I am providing to you. 
-Instead, you should create a separate class that all your testing is done in.
-
-The methods in which you will call are the public ones. These methods give the abilitiy to load an image from file,
-add an image to be displayed, display the images, and clone an array. You should not (and can not) call any of the
-private methods. They are merely used as 'helper' methods for the others.
-
-Included in this project is a standard test image for image processing, "src/LennaCV.png"
-
-If you have any questions, my contact information is given in the ImageUtils.java file. If you choose to email me,
-please put CS 110 of some form in the subject line, so I see your message and reply within a reasonable timeframe.
+This is a little program that takes a cropped version of the original “Lenna” photograph and applies a few various combinations of gray-scale and other modifications of color. It will prompt the user to enter a menu option to view a specific version of modification and include a “side by side” tabbed comparison as well as include my analysis of the modification. A couple of the edits did have resemblances of “old and weathered” photographs. The user may also elect to simply view all of the preloaded images at once.
